@@ -1,7 +1,7 @@
 ---
-name: I want help contributing to Social Distancing tool.
+name: I want to contribute to the Social Distancing tool.
 about: You want to help Social Distancing somehow, but you don't know exactly how.
-title: ''
+title: 'Collaborate with Social Distancing'
 labels: 'created via support template'
 assignees: ''
 
