@@ -2,8 +2,8 @@
 name: I have a problem or issue with Social Distancing application.
 about: You are using Social Distancing app, but the application is crashing
   or throws an exception, a widget is buggy, or something looks wrong.
-title: 'Bug'
-labels: ''
+title: ''
+labels: 'bug'
 assignees: ''
 
 ---

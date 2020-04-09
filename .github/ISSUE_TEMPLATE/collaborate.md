@@ -2,7 +2,7 @@
 name: I want to contribute to the Social Distancing tool.
 about: You want to help Social Distancing somehow, but you don't know exactly how.
 title: 'Collaborate with Social Distancing'
-labels: 'created via support template'
+labels: 'collaborate'
 assignees: ''
 
 ---

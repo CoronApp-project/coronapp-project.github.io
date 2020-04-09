@@ -2,7 +2,7 @@
 name: Feature or idea request
 about: Suggest a new idea for Social Distancing. We need you and your ideas. Be creative!
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
